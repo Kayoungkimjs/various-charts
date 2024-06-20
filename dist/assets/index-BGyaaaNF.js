@@ -179,7 +179,7 @@ Error generating stack: `+s.message+`
     background-position: center;
     height: 15rem;
   }
-`,ig=({link:t,image:e,title:n,chartType:i})=>{const r=`${n} chart`;return I.jsxs(ZP,{children:[I.jsx(tM,{image:e,children:I.jsx(K_,{to:t,children:I.jsx("img",{src:e,alt:r})})}),I.jsx("h2",{children:n}),I.jsx("p",{children:i})]})},eM="/assets/birthrate-i9Xfheg6.png",nM="/assets/population-C8c5G0Da.png",iM=()=>I.jsxs(KP,{children:[I.jsx(Gf,{title:"Various Charts",description:"Data Visualization with React and Chart.js"}),I.jsx(ig,{link:"/birth-rate",image:eM,title:"birth rate",chartType:"Line Chart"}),I.jsx(ig,{link:"/world-population",image:nM,title:"world population",chartType:"Bar Chart"})]}),rM=YP`
+`,ig=({link:t,image:e,title:n,chartType:i})=>{const r=`${n} chart`;return I.jsxs(ZP,{children:[I.jsx(tM,{image:e,children:I.jsx(K_,{to:t,children:I.jsx("img",{src:e,alt:r})})}),I.jsx("h2",{children:n}),I.jsx("p",{children:i})]})},eM="/various-charts/assets/birthrate-i9Xfheg6.png",nM="/various-charts/assets/population-C8c5G0Da.png",iM=()=>I.jsxs(KP,{children:[I.jsx(Gf,{title:"Various Charts",description:"Data Visualization with React and Chart.js"}),I.jsx(ig,{link:"/birth-rate",image:eM,title:"birth rate",chartType:"Line Chart"}),I.jsx(ig,{link:"/world-population",image:nM,title:"world population",chartType:"Bar Chart"})]}),rM=YP`
   * {
     margin: 0;
     font-family: 'Lato', sans-serif;
