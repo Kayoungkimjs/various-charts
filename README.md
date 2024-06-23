@@ -1,30 +1,57 @@
-# React + TypeScript + Vite
+# Various Charts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Data visualization with React and Chart.js <br>
+> Each chart is designed to represent data topics and quantities effectively, providing a clear visualization that aids in comprehending extensive datasets.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view the project live [here](https://kayoungkimjs.github.io/various-charts/).
 
-## Expanding the ESLint configuration
+## Preview
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### 1. Multi Line Chart
 
-- Configure the top-level `parserOptions` property like this:
+![lineChart-ezgif com-optimize](https://github.com/Kayoungkimjs/various-charts/assets/83155239/cef99cb6-1d16-40c0-9269-e4cae0d5829d)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+### 2. Bar Chart
+
+![barChart](https://github.com/Kayoungkimjs/various-charts/assets/83155239/923ed27e-05bf-45a0-81b2-bf5d82b99178)
+
+### 3. Scatter Chart
+
+### 4. Radar Chart
+
+## Technologies Used
+
+- React(Vite)
+- Chart.js
+- Typescript
+- styled components
+
+## Getting started
+
+Install npm packages
+
+```bash
+npm install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Start dev server
+
+```bash
+npm run dev
+```
+
+- Access the default <http://localhost:5173>
+
+### production level
+
+```bash
+## build
+npm run build
+
+## start
+npm run preview
+```
+
+- Access the default <http://localhost:4173>
