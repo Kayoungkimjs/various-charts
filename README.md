@@ -11,15 +11,19 @@ You can view the project live [here](https://kayoungkimjs.github.io/various-char
 
 ### 1. Multi Line Chart
 
-![lineChart-ezgif com-optimize](https://github.com/Kayoungkimjs/various-charts/assets/83155239/cef99cb6-1d16-40c0-9269-e4cae0d5829d)
+![lineChart](https://github.com/Kayoungkimjs/various-charts/assets/83155239/cef99cb6-1d16-40c0-9269-e4cae0d5829d)
 
 ### 2. Bar Chart
 
-![barChart](https://github.com/Kayoungkimjs/various-charts/assets/83155239/923ed27e-05bf-45a0-81b2-bf5d82b99178)
+![barChart](https://github.com/Kayoungkimjs/various-charts/assets/83155239/3f128697-12d9-404d-a30b-7aac7aadc52a)
 
 ### 3. Scatter Chart
 
+![scatterChart](https://github.com/Kayoungkimjs/various-charts/assets/83155239/c2ada4d7-9fb9-4e3d-823b-ac4c4209ba3d)
+
 ### 4. Radar Chart
+
+![radarChart](https://github.com/Kayoungkimjs/various-charts/assets/83155239/2b626bd5-bfc0-4ca6-b5b2-34752b232f53)
 
 ## Technologies Used
 
