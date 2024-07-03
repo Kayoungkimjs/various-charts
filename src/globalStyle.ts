@@ -11,12 +11,11 @@ export const GlobalStyle = createGlobalStyle`
 
   html {
     font-family: 'Lato', sans-serif;
-
   }
 
   body {
     font-family: 'Lato', sans-serif;
-    color: '#000'
+    color: '#000';
   }
 
   h1 {
