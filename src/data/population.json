@@ -1,0 +1,102 @@
+[
+  {
+    "ranking": 1,
+    "country": "India",
+    "value": 1428627663
+  },
+  {
+    "ranking": 2,
+    "country": "China",
+    "value": 1425671352
+  },
+  {
+    "ranking": 3,
+    "country": "United States",
+    "value": 339996563
+  },
+  {
+    "ranking": 4,
+    "country": "Indonesia",
+    "value": 277534122
+  },
+  {
+    "ranking": 5,
+    "country": "Pakistan",
+    "value": 240485658
+  },
+  {
+    "ranking": 6,
+    "country": "Nigeria",
+    "value": 223804632
+  },
+  {
+    "ranking": 7,
+    "country": "Brazil",
+    "value": 216422446
+  },
+  {
+    "ranking": 8,
+    "country": "Bangladesh",
+    "value": 172954319
+  },
+  {
+    "ranking": 9,
+    "country": "Russia",
+    "value": 144444359
+  },
+  {
+    "ranking": 10,
+    "country": "Mexico",
+    "value": 128455567
+  },
+  {
+    "ranking": 11,
+    "country": "Ethiopia",
+    "value": 126527060
+  },
+  {
+    "ranking": 12,
+    "country": "Japan",
+    "value": 123294513
+  },
+  {
+    "ranking": 13,
+    "country": "Philippines",
+    "value": 117337368
+  },
+  {
+    "ranking": 14,
+    "country": "Egypt",
+    "value": 112716598
+  },
+  {
+    "ranking": 15,
+    "country": "DR Congo",
+    "value": 102262808
+  },
+  {
+    "ranking": 16,
+    "country": "VietNam",
+    "value": 98858950
+  },
+  {
+    "ranking": 17,
+    "country": "Iran",
+    "value": 89172767
+  },
+  {
+    "ranking": 18,
+    "country": "Turkiye",
+    "value": 85816199
+  },
+  {
+    "ranking": 19,
+    "country": "Germany",
+    "value": 83294633
+  },
+  {
+    "ranking": 20,
+    "country": "Thailand",
+    "value": 71801279
+  }
+]
